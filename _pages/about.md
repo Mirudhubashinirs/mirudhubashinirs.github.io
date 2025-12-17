@@ -64,7 +64,7 @@ I have also worked on computer vision pipelines using YOLOv8 and PyTorch, deploy
 I enjoy working at the intersection of embedded systems, AI, and software engineering, and I am particularly interested in data engineering for AI, edge intelligence, and applied machine learning in real-world systems.
 
 
-## Projects {projects}
+## Projects 
 
 <section class="projects">
 
