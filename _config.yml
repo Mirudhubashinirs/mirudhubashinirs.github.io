@@ -24,11 +24,11 @@ repository               : "Mirudhubashinirs/mirudhubashinirs.github.io"
 author:
   # Biographic information
   avatar           : "profile.png" 
-  name             : "Your Sidebar Name"
+  name             : "Mirudhubashini Ramasamy Sridharan"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Dortmund, Deutschland"
-  employer         : "I wish you could be that person"
+  employer         : #"I wish you could be that person"
   uri              : # URL
   email            : "mirudhubashini16@gmail.com" 
 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/mirudhubashini/ # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
