@@ -9,8 +9,8 @@
 
 main:
   - title: "Projects"
-    url: /projects/
+    url: /#projects/
     
   - title: "About Me"
-    url: /about/
+    url: /#about/
     
