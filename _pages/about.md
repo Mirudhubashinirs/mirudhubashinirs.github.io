@@ -76,6 +76,15 @@ I enjoy working at the intersection of embedded systems, AI, and software engine
   <p style="margin:0 0 1rem 0; font-size:0.95em; color:#666;">
     Aptiv Services Deutschland GmbH, Wuppertal · July 2024 – March 2025
   </p>
+  <div class="project-images" style="display:flex; justify-content:center; gap:0.75rem; flex-wrap:wrap; margin:0 auto 1rem auto; max-width:1000px;">
+  <img src="images_content\master.png" alt="Overview System"
+       loading="lazy"
+       style="height:180px; width:auto;">
+  <img src="images_content\master_1.png" alt="Experiment Setup"
+       loading="lazy"
+       style="height:180px; width:auto;">
+  </div>
+
   <div class="project-desc" style="max-width:900px; margin:0 auto; line-height:1.5;">
     <p style="margin:0.4rem 0;">
       Designed and deployed a machine learning–based thermal prediction and energy management system for MCU-based automotive ECUs, optimized for real-time inference under constrained embedded resources.
@@ -102,6 +111,13 @@ I enjoy working at the intersection of embedded systems, AI, and software engine
     <p style="margin:0.4rem 0;">
       Built and evaluated a computer vision pipeline for real-time object detection and counting, deployed using Triton Inference Server and benchmarked on edge hardware platforms.
     </p>
+  <div class="project-images" style="display:flex; justify-content:center; gap:0.75rem; flex-wrap:wrap; margin:0 auto 1rem auto; max-width:1000px;">
+  <img src="images_content\research.png" alt="earplugs"
+       loading="lazy"
+       style="height:180px; width:auto;">
+  <img src="images_content\research_1.png" alt="Inference"
+       loading="lazy"
+       style="height:180px; width:auto;">
   </div>
   <div class="project-meta" style="margin-top:0.9rem; display:inline-flex; gap:0.4rem; flex-wrap:wrap;">
     <span style="background:#e0e0e0; padding:0.25em 0.6em; border-radius:999px; font-size:0.9em;">Computer Vision</span>
@@ -120,6 +136,11 @@ I enjoy working at the intersection of embedded systems, AI, and software engine
   <p style="margin:0 0 1rem 0; font-size:0.95em; color:#666;">
     Fachhochschule Dortmund · November 2022 – January 2023
   </p>
+  <div class="project-images" style="display:flex; justify-content:center; gap:0.75rem; flex-wrap:wrap; margin:0 auto 1rem auto; max-width:1000px;">
+    <img src="images_content\chatbot.png" alt="chatbot"
+         loading="lazy"
+         style="height:180px; width:auto;">
+  </div>
   <div class="project-desc" style="max-width:900px; margin:0 auto; line-height:1.5;">
     <p style="margin:0.4rem 0;">
       Developed an NLP-based chatbot to automate student enquiries related to grades, address updates, and university services using intent recognition and response logic.
@@ -174,3 +195,4 @@ I enjoy working at the intersection of embedded systems, AI, and software engine
   </div>
 </div>
 
+</section>
