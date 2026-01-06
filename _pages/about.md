@@ -99,7 +99,6 @@ I enjoy working at the intersection of embedded systems, AI, and software engine
 </div>
 
 <!-- Project: CPU vs GPU Performance Analysis -->
-
 <div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f5f5f5;">
   <h3 style="margin:0 0 0.3rem 0;">
     CPU vs GPU Performance Analysis for Real-Time Object Counting
@@ -115,6 +114,9 @@ I enjoy working at the intersection of embedded systems, AI, and software engine
   <img src="images_content\research.png" alt="earplugs"
        loading="lazy"
        style="height:180px; width:auto;">
+  <img src="images_content\research_2.png" alt="earplugs_1"
+       loading="lazy"
+       style="height:180px; width:auto;">
   <img src="images_content\research_1.png" alt="Inference"
        loading="lazy"
        style="height:180px; width:auto;">
@@ -128,7 +130,6 @@ I enjoy working at the intersection of embedded systems, AI, and software engine
 </div>
 
 <!-- Project: NLP Chatbot -->
-
 <div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f5f5f5;">
   <h3 style="margin:0 0 0.3rem 0;">
     NLP-Based Chatbot for University Student Enquiries
@@ -154,7 +155,6 @@ I enjoy working at the intersection of embedded systems, AI, and software engine
 </div>
 
 <!-- Project: Autonomous Bale-Picking Vehicle -->
-
 <div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f5f5f5;">
   <h3 style="margin:0 0 0.3rem 0;">
     Autonomous Bale-Picking Vehicle for Precision Farming
@@ -175,7 +175,6 @@ I enjoy working at the intersection of embedded systems, AI, and software engine
 </div>
 
 <!-- Project: Cloud-Based DC Motor Control -->
-
 <div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f5f5f5;">
   <h3 style="margin:0 0 0.3rem 0;">
     Cloud-Based Speed Control of DC Motor
@@ -195,4 +194,4 @@ I enjoy working at the intersection of embedded systems, AI, and software engine
   </div>
 </div>
 
-</section>
+
