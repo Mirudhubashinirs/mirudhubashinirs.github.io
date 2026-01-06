@@ -195,10 +195,9 @@ I enjoy working at the intersection of embedded systems, AI, and software engine
   </div>
 </div>
 
+</section>
 
-## About Me {#about me}
-
-<section class="about me">
+## About Me {#about}
 
 <div class="about-grid" style="display:grid; gap:1.5rem; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); align-items:start; margin-top:1.5rem;">
 
