@@ -110,6 +110,7 @@ I enjoy working at the intersection of embedded systems, AI, and software engine
     <p style="margin:0.4rem 0;">
       Built and evaluated a computer vision pipeline for real-time object detection and counting, deployed using Triton Inference Server and benchmarked on edge hardware platforms.
     </p>
+   </div>
   <div class="project-images" style="display:flex; justify-content:center; gap:0.75rem; flex-wrap:wrap; margin:0 auto 1rem auto; max-width:1000px;">
   <img src="images_content\research.png" alt="earplugs"
        loading="lazy"
@@ -140,7 +141,7 @@ I enjoy working at the intersection of embedded systems, AI, and software engine
   <div class="project-images" style="display:flex; justify-content:center; gap:0.75rem; flex-wrap:wrap; margin:0 auto 1rem auto; max-width:1000px;">
     <img src="images_content\chatbot.png" alt="chatbot"
          loading="lazy"
-         style="height:180px; width:auto;">
+         style="height:220px; width:auto;">
   </div>
   <div class="project-desc" style="max-width:900px; margin:0 auto; line-height:1.5;">
     <p style="margin:0.4rem 0;">
