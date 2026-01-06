@@ -196,7 +196,7 @@ I enjoy working at the intersection of embedded systems, AI, and software engine
 </div>
 
 
-## About Me {#about}
+## About Me {#about me}
 
 <section class="about me">
 
