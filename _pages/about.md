@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mirudhubashini Ramasamy Sridharan"
+title: 
 author_profile: true
 redirect_from: 
   - /about/
