@@ -60,11 +60,6 @@ I enjoy working at the intersection of embedded systems, AI, and software engine
   <p style="margin:0 0 1rem 0; font-size:0.95em; color:#666;">
     Honeywell, Lotte · October 2023 – March 2024
   </p>
-  <div class="project-desc" style="max-width:900px; margin:0 auto; line-height:1.5;">
-    <p style="margin:0.4rem 0;">
-      Built and evaluated a computer vision pipeline for real-time object detection and counting, deployed using Triton Inference Server and benchmarked on edge hardware platforms.
-    </p>
-   </div>
   <div class="project-images" style="display:flex; justify-content:center; gap:0.75rem; flex-wrap:wrap; margin:0 auto 1rem auto; max-width:1000px;">
   <img src="images_content\research.png" alt="earplugs"
        loading="lazy"
@@ -76,6 +71,12 @@ I enjoy working at the intersection of embedded systems, AI, and software engine
        loading="lazy"
        style="height:180px; width:auto;">
   </div>
+  <div class="project-desc" style="max-width:900px; margin:0 auto; line-height:1.5;">
+    <p style="margin:0.4rem 0;">
+      Built and evaluated a computer vision pipeline for real-time object detection and counting, deployed using Triton Inference Server and benchmarked on edge hardware platforms.
+    </p>
+   </div>
+  
   <div class="project-meta" style="margin-top:0.9rem; display:inline-flex; gap:0.4rem; flex-wrap:wrap;">
     <span style="background:#e0e0e0; padding:0.25em 0.6em; border-radius:999px; font-size:0.9em;">Computer Vision</span>
     <span style="background:#e0e0e0; padding:0.25em 0.6em; border-radius:999px; font-size:0.9em;">Edge AI</span>
@@ -164,7 +165,7 @@ I enjoy working at the intersection of embedded systems, AI, and software engine
           <span style="font-size:0.9em; color:#5a6b8f;">July 2024 – March 2025 · Wuppertal</span>
         </div>
         <div style="font-size:0.95em; color:#283557; font-weight:500; margin-top:0.2rem;">Aptiv Services Deutschland GmbH</div>
-        <p style="font-size:0.9em; color:#586079; margin:0.4rem 0 0 0;">Built and optimized real-time embedded machine learning models for automotive ECUs, integrating CAN-based sensor data for thermal prediction under MCU constraints.</p>
+        <p style="font-size:0.9em; color:#586079; margin:0.4rem 0 0 0;">Built and optimized real-time embedded machine learning models for automotive ECUs, integrating CAN data for thermal prediction under MCU constraints.</p>
       </li>
       <li>
         <div style="display:flex; flex-direction:column; gap:0.25rem;">
@@ -188,7 +189,7 @@ I enjoy working at the intersection of embedded systems, AI, and software engine
           <span style="font-size:0.9em; color:#5a6b8f;">September 2020 – March 2021 · India</span>
         </div>
         <div style="font-size:0.95em; color:#283557; font-weight:500; margin-top:0.2rem;">Amazon Pvt. Ltd</div>
-        <p style="font-size:0.9em; color:#586079; margin:0.4rem 0 0 0;">Assisted consulting teams by preparing reports, presentations, and customer updates, and supporting stakeholder communication using MS Word, Excel, and PowerPoint.</p>
+        <p style="font-size:0.9em; color:#586079; margin:0.4rem 0 0 0;">Assisted consulting teams by preparing reports, presentations, and customer updates, and supporting in communication using MS Word, Excel, and PowerPoint.</p>
       </li>
     </ul>
   </div>
@@ -201,7 +202,7 @@ I enjoy working at the intersection of embedded systems, AI, and software engine
           <span style="font-weight:600; color:#11203f;">MEng · Embedded Systems Engineering</span>
           <span style="font-size:0.9em; color:#5a6b8f;">October 2021 – April 2025</span>
         </div>
-        <div style="font-size:0.95em; color:#283557; font-weight:500; margin-top:0.2rem;">FH Dortmund - University of Applied Sciences and Arts</div>
+        <div style="font-size:0.95em; color:#283557; font-weight:500; margin-top:0.2rem;">FH Dortmund - University of Applied Sciences and Arts, Germany</div>
       </li>
       <li>
         <div style="display:flex; flex-direction:column; gap:0.25rem;">
@@ -226,7 +227,7 @@ I enjoy working at the intersection of embedded systems, AI, and software engine
           <span style="background:#e1e7ff; color:#1e2a5c; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">Git</span>
           <span style="background:#e1e7ff; color:#1e2a5c; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">Linux</span>
           <span style="background:#e1e7ff; color:#1e2a5c; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">Docker</span>
-          <span style="background:#e1e7ff; color:#1e2a5c; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">Deep Learning</span>
+          <span style="background:#e1e7ff; color:#1e2a5c; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">Machine Learning</span>
           <span style="background:#e1e7ff; color:#1e2a5c; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">Computer Vision</span>
           <span style="background:#e1e7ff; color:#1e2a5c; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">Embedded Systems</span>
           <span style="background:#e1e7ff; color:#1e2a5c; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">Microsoft Azure</span>
@@ -238,7 +239,7 @@ I enjoy working at the intersection of embedded systems, AI, and software engine
         <div style="display:flex; flex-wrap:wrap; gap:0.45rem;">
           <span style="background:#dff4ed; color:#135641; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">Tamil · Native</span>
           <span style="background:#dff4ed; color:#135641; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">English · Fluent</span>
-          <span style="background:#dff4ed; color:#135641; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">German · A2</span>
+          <span style="background:#dff4ed; color:#135641; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">German · B1(pursuing)</span>
         </div>
       </div>
     </div>
