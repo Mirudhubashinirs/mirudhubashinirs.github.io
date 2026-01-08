@@ -64,10 +64,7 @@ I enjoy working at the intersection of embedded systems, AI, and software engine
   <img src="images_content\research.png" alt="earplugs"
        loading="lazy"
        style="height:180px; width:auto;">
-  <img src="images_content\research_2.png" alt="earplugs_1"
-       loading="lazy"
-       style="height:180px; width:auto;">
-  <img src="images_content\research_1.png" alt="Inference"
+  <img src="images_content\Reseach.png" alt="Inference"
        loading="lazy"
        style="height:180px; width:auto;">
   </div>
